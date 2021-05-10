@@ -47,10 +47,10 @@
 
 </details>
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Shubham72401956
 [youtube]: https://www.youtube.com/channel/UCn-XAwJUby6d5P1RtsSx4-w
 [instagram]: https://instagram.com/shub0411
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/shubham-kumar-7316b0171/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
