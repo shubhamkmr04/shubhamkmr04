@@ -3,9 +3,9 @@
 ## I'm a Student, Developer, and Travel enthusiast!!
 
 - 🌱 I’m currently learning Redux
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read romantic novels and play guitar
+- Contact me: shub.clares2015@gmail.com
 
 ### Connect with me:
 
