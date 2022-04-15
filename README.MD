@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Lightning network
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read romantic novels.
 - Contact me: shub.clares2015@gmail.com
 
 ### Connect with me:
