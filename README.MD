@@ -1,9 +1,5 @@
 ### Hi there, I'm Shubham Kumar 👋
 
-## I'm a Student, Developer, and Travel enthusiast!!
-
-- 🌱 I’m currently learning Lightning network
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - Contact me: shub.clares2015@gmail.com
 
 ### Connect with me:
